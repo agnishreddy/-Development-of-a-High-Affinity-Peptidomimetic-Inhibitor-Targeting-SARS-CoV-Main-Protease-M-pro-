@@ -1,0 +1,8 @@
+Metric,Value
+Candidate ID,CHEMBL5565685
+SMILES String,CC1(C)[C@@H]2[C@@H](C(=O)N[C@H](C=O)C[C@@H]3CCNC3=O)N(C(=O)C3(c4cccc(Cl)c4)CC3)C[C@@H]21
+Binding Affinity,-6.32 kcal/mol
+Molecular Weight,471.99 g/mol
+LogP (Hydrophobicity),2.06
+H-Bond Donors,2
+H-Bond Acceptors,4

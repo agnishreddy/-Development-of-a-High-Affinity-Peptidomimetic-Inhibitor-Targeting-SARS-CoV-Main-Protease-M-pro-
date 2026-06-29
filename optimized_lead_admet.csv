@@ -1,0 +1,8 @@
+ADMET Parameter,Value
+Optimized SMILES,CC1(C)[C@@H]2[C@@H](C(=O)N[C@H](C=O)C[C@@H]3CCNC3=O)N(C(=O)C3(c4cccc(C(F)(F)F)c4)CC3)C[C@@H]21
+LogP (Lipophilicity),2.43 (Target: < 5.0)
+TPSA (Polar Surface Area),95.58 Å² (Target: < 140 Å²)
+Chiral Center Count,5 (High stereochemical complexity)
+Ring Count,5
+Reactive Group Alert,Yes (Aldehyde warhead)
+Overall ADMET Profile Status,Conditional Pass (Covalent Warhead Detected (Aldehyde present - common for protease inhibitors))
